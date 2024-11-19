@@ -1,0 +1,8 @@
+﻿  Bank_Extension2.cpp
+C:\Users\USER\Desktop\Bank_Extension2\Bank_Extension2\Bank_Extension2.cpp(70,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\USER\Desktop\Bank_Extension2\Bank_Extension2\Bank_Extension2.cpp(428,1): warning C4715: 'Delete_Client_By_Account_Number': not all control paths return a value
+C:\Users\USER\Desktop\Bank_Extension2\Bank_Extension2\Bank_Extension2.cpp(511,1): warning C4715: 'Update_Client_Info_By_Account_Number': not all control paths return a value
+C:\Users\USER\Desktop\Bank_Extension2\Bank_Extension2\Bank_Extension2.cpp(719,1): warning C4715: 'Deposit_Balance_To_Client_By_Account_Number': not all control paths return a value
+C:\Users\USER\Desktop\Bank_Extension2\Bank_Extension2\Bank_Extension2.cpp(1360,1): warning C4715: 'Update_User_By_UserName': not all control paths return a value
+C:\Users\USER\Desktop\Bank_Extension2\Bank_Extension2\Bank_Extension2.cpp(1285,1): warning C4715: 'Delete_User_By_UserName': not all control paths return a value
+  Bank_Extension2.vcxproj -> C:\Users\USER\Desktop\Bank_Extension2\x64\Debug\Bank_Extension2.exe
