@@ -1,10 +1,15 @@
-# 🏦 Bank Management System 💰
+# Bank Management System 💼💰
 
-## 🌟 Project Overview
+## Overview 🌟
 
 Welcome to the ultimate Bank Management System! This comprehensive C++ application provides a robust solution for managing bank clients, transactions, and user access with advanced features and security.
 
-## ✨ Key Features
+## Features 🚀
+
+### 🔐 User Authentication
+- Secure login system
+- Role-based access control
+- Customizable user permissions
 
 ### Client Management 🧑‍💼
 - **List Clients**: Display a list of all clients. 📋
@@ -45,26 +50,6 @@ Welcome to the ultimate Bank Management System! This comprehensive C++ applicati
 
 
 
-### 🔐 User Authentication
-- Secure login system
-- Role-based access control
-- Customizable user permissions
-
-### 👥 Client Management
-- Add new clients
-- Update client information
-- Delete client accounts
-- Search and find clients
-
-### 💸 Transaction Capabilities
-- Deposit funds
-- Withdraw money
-- View total account balances
-
-### 👤 User Administration
-- Create and manage user accounts
-- Assign granular permissions
-- User role management
 
 ## 🚀 Technical Highlights
 
