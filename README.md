@@ -92,18 +92,3 @@ This project demonstrates key concepts in C++:
 2. **Compile** the C++ code using your preferred IDE or compiler (e.g., `g++` in terminal).
 3. **Run** the compiled program and start managing clients and transactions!
 
----
-
-## 📂 File Structure
-
-```plaintext
-/Bank-Extension2
-├── /src
-│   ├── main.cpp
-│   └── client_management.cpp
-├── /assets
-│   └── /images
-├── /data
-│   └── Client.txt
-└── /docs
-    └── README.md
