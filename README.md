@@ -102,6 +102,15 @@ The system supports multiple permission levels:
 
 ---
 
+## 📚 Further Improvements
+
+- 🔒 **Encryption**: Implement encryption for sensitive data like PIN codes and passwords.
+- 🗄️ **Database Integration**: Replace text files with a relational database for more robust data management.
+- 🖥️ **GUI**: Develop a graphical user interface for a more user-friendly and intuitive experience.
+- 📜 **Logging**: Add a logging system to track all transactions and administrative activities for better monitoring and auditing.
+
+---
+
 ## ⚙️ Technologies Used
 
 - **Language**: C++
@@ -127,14 +136,7 @@ This project demonstrates several key C++ programming concepts:
 
 
 
-## 📚 Further Improvements
 
-- 🔒 **Encryption**: Implement encryption for sensitive data like PIN codes and passwords.
-- 🗄️ **Database Integration**: Replace text files with a relational database for more robust data management.
-- 🖥️ **GUI**: Develop a graphical user interface for a more user-friendly and intuitive experience.
-- 📜 **Logging**: Add a logging system to track all transactions and administrative activities for better monitoring and auditing.
-
----
 
 ## 📜 License
 
