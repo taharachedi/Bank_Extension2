@@ -41,13 +41,11 @@ This C++ project simulates a **Bank Management System** 🏦 that allows the use
 - 🗂️ **View All Users**: Display a comprehensive list of all users in the system.
 
 
-
-
 ### Permissions Management 🔐
 - **Access Control**: Manage user permissions to control access to different functionalities. 🛡️
 
 
-## 🔒 Permission Levels
+### 🔒 Permission Levels
 
 The system supports multiple permission levels:
 - 🌐 Full Access
