@@ -57,6 +57,24 @@ The system supports multiple permission levels:
 
 ---
 
+## Code Structure 🏗️
+
+### Data Structures 📊
+- **stClient**: Structure to hold client information.
+- **stUser**: Structure to hold user information.
+
+### Enumerations 🔢
+- **enMainMenuePermissions**: Defines permissions for different functionalities.
+- **enManageUsersMenueOptions**: Options for managing users.
+- **enTransactionsMenueOptions**: Options for transaction management.
+- **enMainMenueOptions**: Main menu options.
+
+### Functions 🛠️
+- Comprehensive functions for managing clients, users, transactions, and permissions (refer to the code comments for details).
+
+
+---
+
 ## ⚙️ How It Works
 
 ### Core Components
@@ -105,32 +123,7 @@ This project demonstrates several key C++ programming concepts:
 
 ---
 
-## 🏁 Ready to Explore?
 
-### 🚀 How to Run
-1. **Download** the repository to your local machine.
-2. **Compile** the C++ code using your favorite IDE or compiler (e.g., `g++` in terminal).
-3. **Run** the compiled program and begin managing client and user data and transactions with ease!
-
----
-
-## Code Structure 🏗️
-
-### Data Structures 📊
-- **stClient**: Structure to hold client information.
-- **stUser**: Structure to hold user information.
-
-### Enumerations 🔢
-- **enMainMenuePermissions**: Defines permissions for different functionalities.
-- **enManageUsersMenueOptions**: Options for managing users.
-- **enTransactionsMenueOptions**: Options for transaction management.
-- **enMainMenueOptions**: Main menu options.
-
-### Functions 🛠️
-- Comprehensive functions for managing clients, users, transactions, and permissions (refer to the code comments for details).
-
-
----
 
 
 
@@ -155,3 +148,11 @@ Feel free to fork, modify, and use this project as a starting point for your own
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
+## 🏁 Ready to Explore?
+
+### 🚀 How to Run
+1. **Download** the repository to your local machine.
+2. **Compile** the C++ code using your favorite IDE or compiler (e.g., `g++` in terminal).
+3. **Run** the compiled program and begin managing client and user data and transactions with ease!
+
+---
