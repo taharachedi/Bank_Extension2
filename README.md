@@ -154,34 +154,6 @@ This project demonstrates several key C++ programming concepts:
 
 ---
 
-## 📜 Code Overview
-
-### Core Functions
-
-- **File Handling**:
-  - `Load_Client_Data_From_File`: Loads client data from `Client.txt`.
-  - `Save_ClientData_To_File`: Saves client data back to `Client.txt`.
-  - `Load_User_Data_From_File`: Loads user data from `Users.txt`.
-  - `Save_UserData_To_File`: Saves user data back to `Users.txt`.
-
-- **Client Management**:
-  - `Add_New_Client`: Adds a new client to the system.
-  - `Update_Client_Info_By_Account_Number`: Updates client information.
-  - `Delete_Client_By_Account_Number`: Deletes a client by account number.
-  - `Find_Client_By_Account_Number`: Searches for a client by account number.
-
-- **User Management**:
-  - `Add_New_User`: Adds a new user to the system.
-  - `Update_User_By_UserName`: Updates user information.
-  - `Delete_User_By_UserName`: Deletes a user by username.
-  - `Find_User_By_Name`: Searches for a user by username.
-
-- **Transactions**:
-  - `Deposit_Balance_To_Client_By_Account_Number`: Deposits funds into a client's account.
-  - `Withdraw_Balance_From_Client_By_Account_Number`: Withdraws funds from a client's account.
-
----
-
 ## Code Structure 🏗️
 
 ### Data Structures 📊
@@ -196,6 +168,10 @@ This project demonstrates several key C++ programming concepts:
 
 ### Functions 🛠️
 - Comprehensive functions for managing clients, users, transactions, and permissions (refer to the code comments for details).
+
+
+---
+
 
 
 ## 📚 Further Improvements
