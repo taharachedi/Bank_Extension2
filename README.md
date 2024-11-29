@@ -87,9 +87,7 @@ The system supports multiple permission levels:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📜 License
 
-This project is open-source. Use it, modify it, share it! 🎉
 
 ## 🎓 Learning Objectives
 
@@ -236,11 +234,9 @@ This project demonstrates several key C++ programming concepts:
 
 ---
 
-## 📄 License
+## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
+This project is open-source. Use it, modify it, share it! 🎉
 
 Feel free to fork, modify, and use this project as a starting point for your own C++ applications! 🚀
 
