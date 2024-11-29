@@ -3,20 +3,6 @@
 ### Permissions Management 🔐
 - **Access Control**: Manage user permissions to control access to different functionalities. 🛡️
 
-## Code Structure 🏗️
-
-### Data Structures 📊
-- **stClient**: Structure to hold client information.
-- **stUser**: Structure to hold user information.
-
-### Enumerations 🔢
-- **enMainMenuePermissions**: Defines permissions for different functionalities.
-- **enManageUsersMenueOptions**: Options for managing users.
-- **enTransactionsMenueOptions**: Options for transaction management.
-- **enMainMenueOptions**: Main menu options.
-
-### Functions 🛠️
-- Comprehensive functions for managing clients, users, transactions, and permissions (refer to the code comments for details).
 
 
 
@@ -195,6 +181,22 @@ This project demonstrates several key C++ programming concepts:
   - `Withdraw_Balance_From_Client_By_Account_Number`: Withdraws funds from a client's account.
 
 ---
+
+## Code Structure 🏗️
+
+### Data Structures 📊
+- **stClient**: Structure to hold client information.
+- **stUser**: Structure to hold user information.
+
+### Enumerations 🔢
+- **enMainMenuePermissions**: Defines permissions for different functionalities.
+- **enManageUsersMenueOptions**: Options for managing users.
+- **enTransactionsMenueOptions**: Options for transaction management.
+- **enMainMenueOptions**: Main menu options.
+
+### Functions 🛠️
+- Comprehensive functions for managing clients, users, transactions, and permissions (refer to the code comments for details).
+
 
 ## 📚 Further Improvements
 
