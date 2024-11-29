@@ -2,10 +2,7 @@
 
 ## Features 🚀
 
-### 🔐 User Authentication
-- Secure login system
-- Role-based access control
-- Customizable user permissions
+
 
 ### Client Management 🧑‍💼
 - **List Clients**: Display a list of all clients. 📋
@@ -127,6 +124,11 @@ This C++ project simulates a **Bank Management System** 🏦 that allows the use
 - **Persistent Storage**: Client and user data is securely stored in `Client.txt` and `Users.txt` for future use.
 - **Validation**: Enforce unique account numbers and accurate data entry.
 - **Simple File-Based Database**: Efficiently manage all client and user data.
+
+### 🔐 User Authentication
+- Secure login system
+- Role-based access control
+- Customizable user permissions
 
 ### 🧑‍💼 User Management
 - ➕ **Add New Users**: Input details such as username, password, and permissions.
