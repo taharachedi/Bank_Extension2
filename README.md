@@ -150,6 +150,7 @@ Feel free to fork, modify, and use this project as a starting point for your own
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
+---
 ## 🏁 Ready to Explore?
 
 ### 🚀 How to Run
