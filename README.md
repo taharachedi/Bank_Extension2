@@ -149,12 +149,7 @@ This project is open-source. Use it, modify it, share it! 🎉
 
 Feel free to fork, modify, and use this project as a starting point for your own C++ applications! 🚀
 
-- [ ] 📊 Enhanced reporting
-- [ ] 🌐 Web interface
-- [ ] 🔐 Two-factor authentication
-- [ ] 💾 Database integration
-
-**Enjoy Banking, Simplified!** 💳🏧
+---
 
 ## 🤝 Contributing
 
