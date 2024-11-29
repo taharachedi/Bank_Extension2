@@ -1,8 +1,4 @@
-# Bank Management System 💼💰
 
-## Overview 🌟
-
-Welcome to the ultimate Bank Management System! This comprehensive C++ application provides a robust solution for managing bank clients, transactions, and user access with advanced features and security.
 
 ## Features 🚀
 
