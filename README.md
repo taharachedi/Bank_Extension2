@@ -1,61 +1,5 @@
 
 
-### Permissions Management 🔐
-- **Access Control**: Manage user permissions to control access to different functionalities. 🛡️
-
-
-
-
-
-## 🚀 Technical Highlights
-
-- **Language**: C++ 
-- **File-based Storage**: Persistent data management
-- **Modular Design**: Organized with multiple functions and screens
-- **Access Control**: Granular permission system
-
-## 🔒 Permission Levels
-
-The system supports multiple permission levels:
-- 🌐 Full Access
-- 📋 View Clients
-- ➕ Add Clients
-- ❌ Delete Clients
-- ✏️ Update Clients
-- 🔍 Find Clients
-- 💱 Manage Transactions
-- 👥 Manage Users
-
-## 🛠️ How to Use
-
-1. Clone the repository
-2. Compile the C++ code
-3. Run the executable
-4. Login with default credentials
-5. Explore the intuitive menu-driven interface!
-
-## 💡 Default Login
-
-**Username**: Admin
-**Password**: Admin
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-
-
-## 🎓 Learning Objectives
-
-- File handling in C++
-- Struct and enum usage
-- Menu-driven programming
-- Access control implementation
-
-## 🚧 Future Roadmap
-
-
-
 
 # 🏦 Bank (Extension_1) 💼
 
@@ -96,6 +40,25 @@ This C++ project simulates a **Bank Management System** 🏦 that allows the use
 - 🔍 **Search for Users**: Easily locate users by username and display their details.
 - 🗂️ **View All Users**: Display a comprehensive list of all users in the system.
 
+
+
+
+### Permissions Management 🔐
+- **Access Control**: Manage user permissions to control access to different functionalities. 🛡️
+
+
+## 🔒 Permission Levels
+
+The system supports multiple permission levels:
+- 🌐 Full Access
+- 📋 View Clients
+- ➕ Add Clients
+- ❌ Delete Clients
+- ✏️ Update Clients
+- 🔍 Find Clients
+- 💱 Manage Transactions
+- 👥 Manage Users
+
 ---
 
 ## ⚙️ How It Works
@@ -133,6 +96,7 @@ This C++ project simulates a **Bank Management System** 🏦 that allows the use
 - **Data Structures**: Vectors for dynamic client and user management
 
 ---
+
 
 ## 🎯 Learning Outcomes
 
@@ -195,3 +159,8 @@ Feel free to fork, modify, and use this project as a starting point for your own
 - [ ] 💾 Database integration
 
 **Enjoy Banking, Simplified!** 💳🏧
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
